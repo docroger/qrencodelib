@@ -12,3 +12,4 @@ ImportC "d:\perso\qrencodelib.lib" ; change the path for your lib
   QRcode_free(*Qrcode.QRCode) As "QRcode_free"
   CompilerEndIf
 EndImport
+
